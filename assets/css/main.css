@@ -3442,6 +3442,7 @@ input, select, textarea {
 		display: flex;
 		background-color: #482251;
 		cursor: default;
+		position: sticky;
 		padding: 1.75em 2em;
 	}
 
